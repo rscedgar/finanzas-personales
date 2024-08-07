@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cuenta_contable: one
+  apartado: one
+  monto: 9.99
+  notas: MyText
+
+two:
+  cuenta_contable: two
+  apartado: two
+  monto: 9.99
+  notas: MyText
